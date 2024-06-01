@@ -51,7 +51,7 @@ def main():
     
     print(f"\nThere are {deck.count()} cards left in the deck.")
     print("\nGood luck!")
-    input("Press any key to continue . . .")
+
 
 if __name__ == "__main__":
     main()
